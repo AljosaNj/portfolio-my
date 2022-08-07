@@ -20,8 +20,28 @@ background-color: rgba(0, 0, 0, 0.45);
 .nav-menu li {
  padding: 0 1rem;
 }
+
+.nav-menu li a:hover {
+  width: 0%;
+  height: 80%;
+  border-top: 2px solid rgb(248, 217, 15);
+  border-bottom: 2px solid rgb(248, 217, 15);
+  transition: all 0.3s ease;
+}
+
 .hamburger {
  display: none;
+}
+
+.iconhamb {
+  color: #fff;
+}
+
+.iconhamb:hover {
+
+  color: rgb(248, 217, 15);
+  transition: 0.3s;
+
 }
 
 .nav-menu li a {
