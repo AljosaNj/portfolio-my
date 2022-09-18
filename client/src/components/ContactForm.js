@@ -43,7 +43,7 @@ const [mail, setMail] = useState({
     
 <div className="contactform">
       <div className="containerform">
-        <h2 className="h2form" >Contact Us</h2>
+      
       
         <div className="rowform">
           <div className="infoform">
@@ -111,3 +111,6 @@ const [mail, setMail] = useState({
 }
 
 export default ContactForm
+
+
+//  <h2 className="h2form" >Contact Us</h2>
