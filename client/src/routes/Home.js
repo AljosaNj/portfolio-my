@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import HeroImg from "../components/HeroImg";
-import LogoLang from "../components/LogoLang";
+import Skills from "../components/Skills";
 import Portfolio from "../components/Portfolio"
 import Footer from "../components/Footer";
 const Home = () => {
@@ -9,7 +9,7 @@ const Home = () => {
 <div>
 <Navbar/>
 <HeroImg/>
-<LogoLang/>
+<Skills/>
 <Portfolio/>
 <Footer/>
   </div>
