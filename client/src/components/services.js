@@ -1,7 +1,8 @@
 import pro1 from "../assets/pro2.jpg";
 import pro2 from "../assets/pro3.jpg";
 import pro3 from "../assets/pro1.jpg";
-
+import pro4 from "../assets/portimages.jpg"
+import pro5 from "../assets/apiimages.jpg"
 const Services = [
   {
     id: 1,
@@ -32,7 +33,28 @@ const Services = [
       skills:"HTML Scss JavaScript",
     url: "https://wolftattoo.netlify.app/",
      url2: "https://github.com/ "
-  }
+  },
+   {
+    id: 4,
+    imgsrc: pro4,
+    title: "Portfolio Website ",
+    text:
+      "Frontend and Backend project. Portfolio site about my projects and my technical skills. And where you can contact me ...",
+      skills:"HTML Css JavaScript  NodeJS",
+    url: "https://anj-portfolio-cv.netlify.app",
+    url2: "https://github.com/AljosaNj/portfolio-my"
+  },
+
+   {
+    id: 5,
+    imgsrc: pro5,
+    title: "API products ",
+    text:
+      "Backend project, Api products (id, name, picture, description, color..)(NodeJS  Express, MongoDB is used",
+      skills:"NodeJS Express MongoDB  ",
+    url: "https://apiproductnamjestaj.cyclic.app/api/v1/products",
+    url2: "https://github.com/AljosaNj/pokusajapi"
+  },
 ];
 
 export default Services;
