@@ -8,7 +8,8 @@ const Services = [
     imgsrc: pro1,
     title: "Ecommerce Website ",
     text:
-      "Thriving Facebook community and top-ranked podcast, Amy inspires a grounded, tangible and self-affirming sense of “Wow! I really can do this” for over 100,000 online entrepreneurs. Best-selling marketing courses",
+      "Ecommerce  frontend project, ordered products online.Working with the react context, working with Api, styled components",
+      skills:"HTML Css JavaScript",
     url: "https://ddf-tech.netlify.app/",
     url2: "https://github.com/ "
   },
@@ -17,7 +18,8 @@ const Services = [
     imgsrc: pro2,
     title: "Car Selling",
     text:
-      " Podcast Thriving Facebook community and top-ranked, Amy inspires a grounded, tangible and self-affirming sense of “Wow! I really can do this” for over 100,000 online entrepreneurs. Best-selling marketing courses",
+     "Car Website frontend project,ad for the sale of a car .Working with the react context, working with Api, styled components",
+     skills:"HTML Css JavaScript",
     url: "https://motocar17.netlify.app/",
      url2: "https://github.com/ "
   },
@@ -26,7 +28,8 @@ const Services = [
     imgsrc: pro3,
     title: "Tattoo Studio",
     text:
-      "Top-ranked Thriving Facebook community and podcast, Amy inspires a grounded, tangible and self-affirming sense of “Wow! I really can do this” for over 100,000 online entrepreneurs. Best-selling marketing courses",
+      "Fontend project Tatto Shop, website for tattoo artists.Shows the skill and artistry of the tattoo artist. Work with Smooth Scroll and Scss website.",
+      skills:"HTML Scss JavaScript",
     url: "https://wolftattoo.netlify.app/",
      url2: "https://github.com/ "
   }

@@ -10,11 +10,19 @@
  grid-gap: 40px;
  grid-template-columns: repeat(3, 1fr);
  padding-bottom: 5rem;
+ 
 }
 
 .project-card {
  background: #1a1919;
  padding: 1.2rem 1rem;
+ border-radius: 5px;
+  transition: transform 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.project-card:hover {
+ transform: translateY(-4px);
 }
 
 .project-card img {
@@ -31,7 +39,10 @@
  font-size: 1.1rem;
  text-align: justify;
 }
-
+.skil{
+ color: gray;
+ padding-left: 5rem;
+}
 .pro-btns {
  display: flex;
  justify-content: space-between;
