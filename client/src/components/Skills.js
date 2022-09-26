@@ -5,18 +5,47 @@ import './Skills.css'
 
 const Skills = () => {
 const skills = [
-  
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'React',
-  'Git',
-  'SASS',
-  'Github',
-  'Nodejs',
-  'Express',
-  'MongoDB',
-  
+  {
+    id: 1,
+    title: 'HTML',
+   },
+    {
+    id: 2,
+    title: 'CSS',
+   },
+  {
+    id: 3,
+    title: 'JavaScript',
+   },
+  {
+    id: 4,
+    title: 'React',
+   },
+   {
+    id: 5,
+    title: 'Git',
+   },
+   {
+    id: 6,
+    title: 'SASS',
+   },
+    {
+    id: 7,
+    title: 'Github',
+   },
+    {
+    id: 8,
+    title: 'Nodejs',
+   },
+   {
+    id: 9,
+    title: 'Express',
+   },
+    {
+    id: 10,
+    title: 'MongoDB',
+   },
+   
 ]
 
 
@@ -25,11 +54,16 @@ const skills = [
     <section className='skills' id='skills'>
       <h2 className='section__title'>Tech Skills</h2>
       <ul className='skills__list'>
-        {skills.map((skill) => (
-          <li  className='skills__list-item btns btns--plain'>
-            {skill}
+
+
+        {skills.map((skill) => {
+         const {id,title} = skill;
+           return(
+          <li key={id} className='skills__list-item btns btns--plain'>
+            {title}
           </li>
-        ))}
+        )
+})}
       </ul>
     </section>
   )
