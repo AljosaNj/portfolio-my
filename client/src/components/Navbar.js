@@ -34,7 +34,7 @@ const handleScroll = () => {
 
   return (
 
-<div className='header' >
+<div className= 'header'>
   <Link to="/" >
 <h1>Portfolio </h1>
   </Link>
