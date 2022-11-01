@@ -13,6 +13,7 @@
 .containerform {
  width: 75%;
  margin: 0 auto;
+ 
 }
 
 .h2form {
@@ -27,6 +28,7 @@
  width: 100%;
  display: flex;
  justify-content: space-between;
+ 
 }
 
 .infoform {
@@ -37,6 +39,7 @@
  justify-content: space-between;
  gap: 30px;
  align-self: stretch;
+  
 }
 
 .iconform {
@@ -78,6 +81,7 @@
 .form-group {
  margin-bottom: 30px;
  margin-top: 0.2rem;
+
 }
 
 .inputform {
@@ -86,6 +90,7 @@
  border-bottom: 1px solid #000;
  font-size: 16px;
  padding: 5px;
+  
  
 }
 
