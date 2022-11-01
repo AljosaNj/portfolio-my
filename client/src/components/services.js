@@ -3,9 +3,20 @@ import pro2 from "../assets/pro3.jpg";
 import pro3 from "../assets/pro1.jpg";
 import pro4 from "../assets/portimages.jpg"
 import pro5 from "../assets/apiimages.jpg"
+import pro6 from "../assets/fit2.jpg"
 const Services = [
   {
     id: 1,
+    imgsrc: pro6,
+    title: "FitHouse ",
+    text:
+      "FitHouse  frontend project,  about Fitness gym... Responsive gym website...  Working  with the react hooks.., react-scroll,react icons, framer motion",
+      skills:"HTML Css JavaScript",
+    url: "https://fithousee.netlify.app/",
+    url2: "https://github.com/AljosaNj/FitHouse"
+  },
+     {
+    id: 2,
     imgsrc: pro1,
     title: "Ecommerce Website ",
     text:
@@ -13,16 +24,6 @@ const Services = [
       skills:"HTML Css JavaScript",
     url: "https://ddf-tech.netlify.app/",
     url2: "https://github.com/ "
-  },
-  {
-    id: 2,
-    imgsrc: pro2,
-    title: "Car Selling",
-    text:
-     "Car Website frontend project,ad for the sale of a car .Working with the react context, working with Api, styled components",
-     skills:"HTML Css JavaScript",
-    url: "https://motocar17.netlify.app/",
-     url2: "https://github.com/ "
   },
   {
     id: 3,
@@ -54,6 +55,17 @@ const Services = [
       skills:"NodeJS Express MongoDB  ",
     url: "https://apiproductnamjestaj.cyclic.app/api/v1/products",
     url2: "https://github.com/AljosaNj/pokusajapi"
+  },
+ 
+  {
+    id: 6,
+    imgsrc: pro2,
+    title: "Car Selling",
+    text:
+     "Car Website frontend project,ad for the sale of a car .React context, working with Api, styled components",
+     skills:"HTML Css JavaScript",
+    url: "https://motocar17.netlify.app/",
+     url2: "https://github.com/ "
   },
 ];
 
