@@ -48,6 +48,13 @@
 }
 
 @media screen and (max-width: 640px) {
+.hero-img {
+ 
+  height: 60vh;
+  
+ }
+
+
  .hero-img h1 {
   font-size: 2rem;
  }

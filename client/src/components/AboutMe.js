@@ -30,7 +30,12 @@ const AboutMe = () => {
               He'd fall right off his desk! And it's a funny sort of 
               business to be sitting up there at your desk, talking down at your subordinates.
               </p>
-             
+              <div className="about__button d__flex align__items__center">
+                    <a href='ass'>
+                        <button  className="btn"  >Download CV</button>
+                    </a>
+      
+                 </div>
                             </div>
                         </div>
                     </div>
