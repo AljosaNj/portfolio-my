@@ -10,31 +10,28 @@ const AboutMe = () => {
                             <img src={aboutImg} alt='' className='about__img' />
                         </div>
                         <div className="col__2">
-                            <h1 className="about__heading">About Me</h1>
+                            <h1 className="about__heading">Who am I?</h1>
                             <div className="about__meta">
                             <p className="about__text p__color">
-              For instance, whenever I go back to the guest house during
-              the morning to copy out the contract, these gentlemen are always
-              still sitting there eating their breakfasts. I ought to just try 
-              that with my boss; I'd get kicked out on the spot.
+                    Hello, my name is Aljosa Njezic and I'm a Junior  Developer. 
+  I'm basing myself on Web Development as a Frontend Developer. 
+  I am currently working with the ReactJS(JavaScript library).
+  I also know the basics of working in NodeJS and MongoDB.
               </p>
               <p className="about__text p__color">
-              But who knows, maybe that would be the best thing for me. He'd fall 
-              right off his desk! And it's a funny sort of business to be sitting up 
-              there at your desk, 
+            My goal is to become a Full Stack Developer(MERN).  
+I learned about programming online. On websites such as Udemy, Pluralsight, Youtube and other sites about programming.
+I also had experienced programmers as mentors.
               </p>
               <p className="about__text p__color">
-              talking down at your subordinates. I ought to just try 
-              that witht my boss; I'd get kicked out on the spot. 
-              But who knows, maybe that would be the best thing for me. 
-              He'd fall right off his desk! And it's a funny sort of 
-              business to be sitting up there at your desk, talking down at your subordinates.
+            I like challenges and am open to the upcoming stages in the job...
+                    You can view my CV.
               </p>
               <div className="about__button d__flex align__items__center">
-                    <a href='ass'>
-                        <button  className="btn"  >Download CV</button>
+                    <a  href='aljosa-njezic.pdf' download='aljosa-njezic.pdf'   >
+                 <button  className="btn"  >Download CV</button> 
                     </a>
-      
+                   {/* <button  className="btn"  >Download CV</button> */}
                  </div>
                             </div>
                         </div>

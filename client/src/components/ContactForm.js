@@ -53,7 +53,7 @@ const [mail, setMail] = useState({
               </div>
               <div className="textform">
                 <h4 className="texth4">Address</h4>
-                <p className="textp">4671 Sugar Camp Road</p>
+                <p className="textp">Banja Luka 78 000</p>
                 
               </div>
             </div>
@@ -63,16 +63,31 @@ const [mail, setMail] = useState({
               </div>
               <div className="textform">
                 <h4  className="texth4">Phone</h4>
-                <p className="textp" >5057-590-659-156</p>
+                <p className="textp" >
+         <a  href='aljosa-njezic.pdf' download='aljosa-njezic.pdf' >
+              find in  <span style={{color:"yellow"}}>CV</span>
+               </a>
+
+
+                </p>
               </div>
             </div>
             <div>
               <div className="iconform">
-                <FaMailBulk size={20} />
+               
+          <FaMailBulk size={20}   />
+    
+                     
+              
               </div>
               <div className="textform">
                 <h4 className="texth4" >Email</h4>
-                <p className="textp" >emailemail@email.com</p>
+                <p className="textp" >
+                <a href="mailto:aljosaa.njezic@gmail.com" style={{color:"yellow"}}>
+                  aljosaa.njezic@gmail.com
+                </a>
+                
+                </p>
               </div>
             </div>
           </div>
