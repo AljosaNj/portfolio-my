@@ -77,5 +77,6 @@
  }
   .hamburger {
    display: initial;
+    cursor: pointer;
   }
 }
