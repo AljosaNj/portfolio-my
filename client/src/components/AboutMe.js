@@ -10,7 +10,7 @@ const AboutMe = () => {
                             <img src={aboutImg} alt='' className='about__img' />
                         </div>
                         <div className="col__2">
-                            <h1 className="about__heading">Who am I?</h1>
+                            <h1 className="about__heading skilltitle ">Who am I?</h1>
                             <div className="about__meta">
                             <p className="about__text p__color">
                     Hello, my name is Aljosa Njezic and I'm a Junior  Developer. 

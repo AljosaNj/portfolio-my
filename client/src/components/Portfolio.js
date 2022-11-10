@@ -5,7 +5,7 @@ import services from './services';
 export const Portfolio = () => {
   return (
     <div className="work-container">
-        <h1 className="project-heading">Projects</h1>
+        <h1 className="project-heading skilltitle ">Projects</h1>
     <div className='portfolio'>
      
     

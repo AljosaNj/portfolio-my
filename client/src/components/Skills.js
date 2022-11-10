@@ -52,7 +52,8 @@ const skills = [
 
   return (
     <section className='skills' id='skills'>
-      <h2 className='section__title'>Tech Skills</h2>
+      <h2 className='section__title  skilltitle' >Tech Skills</h2>
+      
       <ul className='skills__list'>
 
 

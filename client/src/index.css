@@ -45,3 +45,7 @@ ul {
   color: #fff;
   transition: 0.3s;
 }
+.skilltitle {
+  color: transparent;
+  -webkit-text-stroke: 2px #FFFF00;
+}
