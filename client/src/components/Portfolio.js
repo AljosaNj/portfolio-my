@@ -14,14 +14,14 @@ export const Portfolio = () => {
       const {id,imgsrc,title,text,skills,url,url2} = service;
       return (
        <div key={id} className="project-card">
-      <img src={imgsrc} alt="image"/>
+      <img src={imgsrc} alt="imagesss"/>
     <h2 className="project-title">{title}</h2>
     <div className="pro-details">
       <p>{text}</p>
       <p className='skil'>{skills}</p>
       <div className="pro-btns">
-     <a href={url}  target="_blank" className="btn" > View</a>
-     <a href={url2} target="_blank" className="btn" > Source</a>
+     <a href={url}   className="btn" > View</a>
+     <a href={url2}  className="btn" > Source</a>
 
       
       </div>
