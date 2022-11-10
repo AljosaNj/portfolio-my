@@ -1,7 +1,9 @@
 .footer {
   width: 100%;
-  padding: 3rem 0;
+padding: 1.9rem 0;
+ 
   background: rgba(19, 19, 19, 0.8);
+ 
 }
 
 .footer-container {
@@ -18,15 +20,29 @@
   display: flex;
   flex-direction: column;
   padding: 1rem;
+  margin-top: 2rem;
 }
 
 .location {
   display: flex;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.9rem;
+  
 }
 
 .location p {
   line-height: 30px;
+  margin-bottom: 1rem;
+}
+.phone a {
+margin-bottom: 2rem;
+}
+.email  {
+  margin-top: 2rem;
+}
+.emailhref {
+  position: relative;
+  font-size: 1.2rem;
+bottom: 5px;
 }
 
 .right {
@@ -35,10 +51,20 @@
   display: flex;
   flex-direction: column;
   padding: 1rem;
+  margin-top: 2rem;
 }
 
 .right .social {
-  margin-top: 1rem;
+  margin-top: 4rem;
+  cursor: pointer;
+ 
+}
+
+.right .social:hover {
+
+  color: white;
+  transition: 0.3s;
+
 }
 
 h4 {
@@ -48,6 +74,7 @@ h4 {
 
 p {
   font-size: 1.2rem;
+  
 }
 
 @media screen and (max-width: 640px) {
