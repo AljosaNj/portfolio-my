@@ -60,7 +60,7 @@ const Footer = () => {
             </a>
            
            
-        <a href="viber:/contact?number=%2B38766067147" >
+        <a href="viber://chat?number=%2B38766067147" >
          <FaViber
               size={30}
               style={{ color: "yellow", marginRight: "1rem" }}
