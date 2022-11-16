@@ -23,7 +23,7 @@ const Services = [
       "Ecommerce  frontend project, ordered products online.Working with the react context, working with Api, styled components",
       skills:"HTML Css JavaScript",
     url: "https://ddf-tech.netlify.app/",
-    url2: "https://github.com/ "
+    url2: "https://github.com/AljosaNj/DDF-Tech"
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const Services = [
       "Fontend project Tatto Shop, website for tattoo artists.Shows the skill and artistry of the tattoo artist. Work with Smooth Scroll and Scss website.",
       skills:"HTML Scss JavaScript",
     url: "https://wolftattoo.netlify.app/",
-     url2: "https://github.com/ "
+     url2: "https://github.com/AljosaNj/WolfTattoo "
   },
    {
     id: 4,
@@ -51,7 +51,7 @@ const Services = [
     imgsrc: pro5,
     title: "API products ",
     text:
-      "Backend project, Api products (id, name, picture, description, color..)(NodeJS  Express, MongoDB is used",
+      "Backend api product with Nodejs ,Express and MongoDB.You can also find other crud rest api on my GitHub",
       skills:"NodeJS Express MongoDB  ",
     url: "https://apiproductnamjestaj.cyclic.app/api/v1/products",
     url2: "https://github.com/AljosaNj/pokusajapi"
@@ -65,7 +65,7 @@ const Services = [
      "Car Website frontend project,ad for the sale of a car .React context, working with Api, styled components",
      skills:"HTML Css JavaScript",
     url: "https://motocar17.netlify.app/",
-     url2: "https://github.com/ "
+     url2: "https://github.com/AljosaNj/motocar "
   },
 ];
 
