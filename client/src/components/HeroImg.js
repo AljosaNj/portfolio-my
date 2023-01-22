@@ -15,7 +15,7 @@ const HeroImg = () => {
   <Typed
   className="animations-p"
        strings={[
-        "HI,THIS IS MY PORTFOLIO",
+        "HI, THIS IS MY PORTFOLIO",
         "YOU CAN SEE SOME OF MY PROJECTS",
         "CONTACT ME IF YOU ARE INTERESTED",
        ]}
