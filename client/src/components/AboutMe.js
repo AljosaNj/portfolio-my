@@ -16,6 +16,7 @@ const AboutMe = () => {
                    I'm a junior React developer and I've been learning Front-end web development for the last two years on my own. Some of the resources that I use for learning are platforms like Udemy, Pluralsight, YouTube, w3schools.​com, freeCodeCamp.​org, codepen.​io, 30secondsofcode.​org etc.
               </p>
               <p className="about__text p__color">
+                
            Every day I'm working on real projects where I'm applying everything learned so far. I like challenges and I like to learn new things that I can use to solve problems.
               </p>
             
