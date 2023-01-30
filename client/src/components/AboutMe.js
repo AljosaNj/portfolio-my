@@ -1,13 +1,15 @@
 import React from 'react'
 import "./AboutMe.css";
 import aboutImg from "../assets/aboutpic.jpg"
+
 const AboutMe = () => {
   return (
      <div className="about " id="About">
                 <div className="container">
                     <div className="row">
                         <div className="col__2">
-                            <img src={aboutImg} alt='' className='about__img' />
+                             <img src={aboutImg} alt='' className='about__img' />
+                          
                         </div>
                         <div className="col__2">
                             <h1 className="about__heading skilltitle ">Who am I?</h1>

@@ -1,0 +1,56 @@
+.mernproject {
+ background-color: #191919;
+}
+
+.mernvideo {
+ margin-top: 2rem;
+}
+
+
+.mern__heading {
+
+  color: #fff;
+   padding: 1rem 0;
+}
+
+
+.col__2 {
+ max-width: 50%;
+ display: flex;
+ padding: 20px;
+ justify-content: center;
+ flex-direction: column;
+}
+
+.p__color {
+ color: #fff;
+
+ font-size: 18px;
+ line-height: 30px;
+ font-family: Poppins, sans-serif;
+ margin-bottom: 15px;
+}
+
+.row {
+ display: flex;
+ width: 100%;
+ flex-wrap: wrap;
+ overflow: hidden;
+ align-items: flex-start;
+ justify-content: center;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+
+ .col__2 {
+  max-width: 100%;
+ }
+
+
+}
