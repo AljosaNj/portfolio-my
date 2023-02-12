@@ -18,8 +18,8 @@
                             <h1 className="mern__heading ">MERN Project GymClients</h1>
                             <div className="mern__meta">
                             <p className="mern__text p__color">
-                MERN Project GymClients, Project in which we used MongoDB,  ReactJS, Nodejs, Express.
-In this project, how do we save the data in the database, how can we change them. Saving the data of our clients
+                MERN Project GymClients, MongoDB,  ReactJS, Nodejs, Express.
+In this project, how do we save the data in the database, how can we change them. Saving the data of our clients, monthly client statistics .
               </p>
            
               <div className=" d__flex align__items__center">
