@@ -1,6 +1,6 @@
 .skills {
 
- height: 370px;
+ height: 650px;
 
 }
 
@@ -28,6 +28,16 @@
 
 }
 
+.paracontainer {
+text-align: center;
+
+ font-size: 22px;
+ line-height: 25px;
+ padding-top: 5rem;
+ margin-left: 5rem;
+ margin-right: 5rem;
+
+}
 
 
 
@@ -53,4 +63,11 @@
 
 .btns--plain:hover {
  transform: translateY(-4px);
+}
+
+
+@media screen and (max-width: 640px) {
+.skills {
+ margin-bottom: 15rem;
+}
 }

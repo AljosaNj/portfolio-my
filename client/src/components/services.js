@@ -11,7 +11,7 @@ const Services = [
     title: "FitHouse ",
     text:
       "FitHouse  frontend project,  about Fitness gym... Responsive gym website...  Working  with the react hooks.., react-scroll,react icons, framer motion",
-      skills:"HTML Css JavaScript",
+      skills:"HTML Css JavaScript  ReactJS",
     url: "https://fithousee.netlify.app/",
     url2: "https://github.com/AljosaNj/FitHouse"
   },
@@ -21,7 +21,7 @@ const Services = [
     title: "Ecommerce Website ",
     text:
       "Ecommerce  frontend project, ordered products online.Working with the react context, working with Api, styled components",
-      skills:"HTML Css JavaScript",
+      skills:"HTML Css JavaScript  ReactJS",
     url: "https://ddf-tech.netlify.app/",
     url2: "https://github.com/AljosaNj/DDF-Tech"
   },
@@ -31,7 +31,7 @@ const Services = [
     title: "Tattoo Studio",
     text:
       "Fontend project Tatto Shop, website for tattoo artists.Shows the skill and artistry of the tattoo artist. Work with Smooth Scroll and Scss website.",
-      skills:"HTML Scss JavaScript",
+      skills:"HTML Scss JavaScript ReactJS ",
     url: "https://wolftattoo.netlify.app/",
      url2: "https://github.com/AljosaNj/WolfTattoo "
   },
@@ -41,7 +41,7 @@ const Services = [
     title: "Portfolio Website ",
     text:
       "Frontend and Backend project. Portfolio site about my projects and my technical skills. And where you can contact me ...",
-      skills:"HTML Css JavaScript  NodeJS",
+      skills:"HTML Css JavaScript  ReactJS  NodeJS",
     url: "https://anj-portfolio-cv.netlify.app",
     url2: "https://github.com/AljosaNj/portfolio-my"
   },
@@ -63,7 +63,7 @@ const Services = [
     title: "Car Selling",
     text:
      "Car Website frontend project,ad for the sale of a car .React context, working with Api, styled components",
-     skills:"HTML Css JavaScript",
+     skills:"HTML Css JavaScript ReactJS",
     url: "https://motocar17.netlify.app/",
      url2: "https://github.com/AljosaNj/motocar "
   },
