@@ -1,9 +1,12 @@
-import pro1 from "../assets/pro2.jpg";
-import pro2 from "../assets/pro3.jpg";
+import pro1  from "../assets/pro2.jpg";
+import pro2  from "../assets/pro3.jpg";
 import pro3 from "../assets/pro1.jpg";
-import pro4 from "../assets/portimages.jpg"
-import pro5 from "../assets/apiimages.jpg"
-import pro6 from "../assets/fit2.jpg"
+import pro4 from "../assets/portimages.jpg";
+import pro5 from "../assets/apiimages.jpg";
+import pro6 from "../assets/fit2.jpg";
+import pro7 from "../assets/slid5.jpg"
+
+
 const Services = [
   {
     id: 1,
@@ -45,9 +48,22 @@ const Services = [
     url: "https://anj-portfolio-cv.netlify.app",
     url2: "https://github.com/AljosaNj/portfolio-my"
   },
+{
+    id: 5,
+    imgsrc: pro7,
+    title: "Zeus",
+    text:
+     "Car Website frontend project,ad for the sale of a car .React context, working with Api, styled components",
+     skills:"HTML Css JavaScript Vite ReactJS",
+    url: "https://zeuuus.netlify.app/",
+     url2: "https://github.com/AljosaNj/zeus"
+  },
+
+
+
 
    {
-    id: 5,
+    id: 6,
     imgsrc: pro5,
     title: "API products ",
     text:
@@ -58,7 +74,7 @@ const Services = [
   },
  
   {
-    id: 6,
+    id: 7,
     imgsrc: pro2,
     title: "Car Selling",
     text:
@@ -67,6 +83,9 @@ const Services = [
     url: "https://motocar17.netlify.app/",
      url2: "https://github.com/AljosaNj/motocar "
   },
+
+
+
 ];
 
 export default Services;

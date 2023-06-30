@@ -99,7 +99,7 @@ const [mail, setMail] = useState({
                 <input type="text" placeholder="Full Name"  className="inputform" defaultValue={mail.name} onChange={e => setMail({...mail, name: e.target.value })} required />
               </div>
               <div className="form-group">
-                <input type="email" placeholder="Email" className="inputform" defaultValue={mail.email} onChange={e => setMail({...mail, email: e.target.value })} required />
+                <input   type="email" placeholder="Email" className="inputform" defaultValue={mail.email} onChange={e => setMail({...mail, email: e.target.value })} required />
               </div>
               <div className="form-group">
                 <textarea

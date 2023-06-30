@@ -46,15 +46,16 @@ const Footer = () => {
     </div>
   </div>
   <div className="right">
-  <h4>About the  Website</h4>
+  <h4  style={{ color: "yellow" }} >About the  Website</h4>
  <p>
            This is a portfolio website about developer projects
           </p>
           <div className="social">
             <a href="https://github.com/AljosaNj">
-          <FaGithub  
+          <FaGithub 
+          className="gitt" 
               size={30}
-              style={{ color: "yellow", marginRight: "1rem" }}
+              style={{  marginRight: "1rem" }}
             />
 
             </a>
@@ -62,8 +63,9 @@ const Footer = () => {
            
         <a href="viber://chat?number=%2B38766067147" >
          <FaViber
+         className="vibb"
               size={30}
-              style={{ color: "yellow", marginRight: "1rem" }}
+              style={{  marginRight: "1rem" }}
             />
         
         </a>

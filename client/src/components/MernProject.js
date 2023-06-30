@@ -15,7 +15,7 @@
                           
                         </div>
                         <div className="col__2">
-                            <h1 className="mern__heading ">MERN Project GymClients</h1>
+                            <h1 className="mern__heading ">MERN  GymClients</h1>
                             <div className="mern__meta">
                             <p className="mern__text p__color">
                 MERN Project GymClients, MongoDB,  ReactJS, Nodejs, Express.
